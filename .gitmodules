@@ -1,0 +1,3 @@
+[submodule "modul-2"]
+	path = modul-2
+	url = https://github.com/salsazufar/praktikum-papb-modul-2.git

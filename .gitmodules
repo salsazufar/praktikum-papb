@@ -7,3 +7,6 @@
 [submodule "modul-4"]
 	path = modul-4
 	url = https://github.com/salsazufar/praktikum-papb-modul-4.git
+[submodule "modul-5"]
+	path = modul-5
+	url = https://github.com/salsazufar/praktikum-papb-modul-5.git

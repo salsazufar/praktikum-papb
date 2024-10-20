@@ -13,3 +13,6 @@
 [submodule "modul-6"]
 	path = modul-6
 	url = https://github.com/salsazufar/praktikum-papb-modul-6.git
+[submodule "modul-7"]
+	path = modul-7
+	url = https://github.com/salsazufar/praktikum-papb-modul-7.git

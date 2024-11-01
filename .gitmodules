@@ -19,3 +19,6 @@
 [submodule "modul-8"]
 	path = modul-8
 	url = https://github.com/salsazufar/praktikum-papb-modul-8.git
+[submodule "modul-9"]
+	path = modul-9
+	url = https://github.com/salsazufar/praktikum-papb-modul-9.git
